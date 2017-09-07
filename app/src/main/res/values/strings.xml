@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quete Simple UI</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Valider</string>
+    <string name="nom_famille">Nom</string>
+    <string name="nom_prenom">Prénom</string>
+</resources>
